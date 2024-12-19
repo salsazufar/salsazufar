@@ -61,4 +61,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=salsazufar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=true&order=2" height="150" alt="languages graph"  />
    <img src="https://github-readme-activity-graph.vercel.app/graph?username=salsazufar&radius=16&theme=modern-lilac&area=true&order=5&hide_border=true&hide_title=false" height="300" alt="activity-graph graph"  />
 </div>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=salsazufar&show_icons=true&locale=en" alt="rnov24" /></p>
+
